@@ -1,6 +1,6 @@
 <div style="text-align: center">
   <h1>Pony Logos</h1>
-  <p>The "ponify" logo based on pony.town</p>
+  <p>The "ponify" logo based on <a href="https://pony.town">pony.town</a></p>
 </div>
 
 ## Gallery
