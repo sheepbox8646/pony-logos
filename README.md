@@ -10,11 +10,13 @@
     <td><img src="./vuejs/vue-pony.gif"/></td>
     <td><img src="./javascript/js-pony.gif"/></td>
     <td><img src="./typescript/ts-pony.gif"></td>
+    <td><img src="./python/py-pony.gif"/></td>
   </tr>
   <tr>
     <td>Vue</td>
     <td>JavaScript</td>
     <td>TypeScript</td>
+    <td>Python</td>
   </tr>
 </table>
 
@@ -22,4 +24,4 @@
 
 Please refer to this video, and you can download the .ptc file and export more animation
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t2K1e2JJ1T0?si=9BPA-HKE8XF6J7m9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Click here to jump to YouTube](https://www.youtube.com/watch?v=t2K1e2JJ1T0)
