@@ -18,6 +18,18 @@
     <td>TypeScript</td>
     <td>Python</td>
   </tr>
+  <tr>
+    <td><img src="./vscode/vscode-pony.gif"/></td>
+    <td><img src="./github/gh-pony.gif"/></td>
+    <td><img src="./java/java-pony.gif"/></td>
+    <td><img src="./elysia/elysiajs-pony.gif"></td>
+  </tr>
+  <tr>
+    <td>VSCode</td>
+    <td>GitHub</td>
+    <td>Java</td>
+    <td>ElysiaJS</td>
+  </tr>
 </table>
 
 ## How to import the config file?
