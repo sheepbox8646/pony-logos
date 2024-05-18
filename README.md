@@ -30,6 +30,18 @@
     <td>Java</td>
     <td>ElysiaJS</td>
   </tr>
+  <tr>
+    <td><img src="./nuxt/nuxt-pony.gif"/></td>
+    <td><img src="./nodejs/nodejs-pony.gif"/></td>
+    <td><img src="./kotlin/kotlin-pony.gif"/></td>
+    <td><img src="./react/react-pony.gif"/></td>
+  </tr>
+  <tr>
+    <td>Nuxt</td>
+    <td>Nodejs</td>
+    <td>Kotlin</td>
+    <td>React</td>
+  </tr>
 </table>
 
 ## How to import the config file?
